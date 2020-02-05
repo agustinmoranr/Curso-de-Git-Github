@@ -4,3 +4,5 @@ por lo que soy bastante flojo :c
 
 Hasta ahorita he avazado mucho en el curso
 de git, pero aún me falta bastante :/
+Creo que mejor siempre agrego un texto al hacer
+commit.
