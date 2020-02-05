@@ -1,3 +1,6 @@
 Hola mama estoy intentando ser
 un buen dev desde las 11 de la mañana
 por lo que soy bastante flojo :c
+
+Hasta ahorita he avazado mucho en el curso
+de git, pero aún me falta bastante :/
