@@ -6,3 +6,4 @@ Hasta ahorita he avazado mucho en el curso
 de git, pero aún me falta bastante :/
 Creo que mejor siempre agrego un texto al hacer
 commit.
+Voy a checar si mi hipotesis en vim es correcta
