@@ -1,16 +1,42 @@
 body {
     align-content: center;
-text-align: -webkit-center;
-font-family: Arial;
+    font-family: Arial;
+    text-align: -webkit-center;
+    width: auto;
 }
 
 .container {
-    padding-top: 1em;
+    margin-top: 1px;
+    padding-top: 1px;
     width: 80%;
     align-content: center;
-    background-color: grey;
+    background-color:rgba(220, 220, 220, 0.726);
+}
+
+.cabecera {
+    margin: 1px;
+    text-align: left;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    box-shadow: 0px, 30px grey;
+    padding: 0.5em;
+}
+
+.cabecera h1 {
+    margin: 1px;
+    font-size: 1.5em;
 }
 
 .post {
+    margin-top: 2em;
+    padding-left: 1em;
+    padding-right: 1.5em;
     color: blue;
+    text-align: justify;
+}
+
+.post p {
+    font-size: 1.5em;
+    color: black;
 }
