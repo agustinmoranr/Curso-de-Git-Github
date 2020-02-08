@@ -31,11 +31,25 @@ font-family: sans-serif;
     margin-top: 2em;
     padding-left: 1em;
     padding-right: 1.5em;
-    color: blue;
+    color: darkblue;
     text-align: justify;
 }
 
 .post p {
     font-size: 1.5em;
     color: black;
+}
+
+.footer {
+    height: 40px;
+    margin: 0px;
+    background-color:blue ;
+    color: white;
+}
+
+.footer h1 {
+    height: 40px;
+    margin: 0;
+    padding: 5px;
+    font-size: 24px;
 }
