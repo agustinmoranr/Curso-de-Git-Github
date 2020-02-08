@@ -1,7 +1,8 @@
 body {
+    background-color: darkgrey;
     align-content: center;
-text-align: -webkit-center;
-font-family: sans-serif;
+    text-align: -webkit-center;
+    font-family: sans-serif;
 }
 
 .container {
@@ -10,9 +11,13 @@ font-family: sans-serif;
     width: 80%;
     align-content: center;
     background-color:rgba(220, 220, 220, 0.726);
+    border: 1px solid white;
+    border-radius: 5px;
 }
 
 .cabecera {
+    display: flex;
+    height: 50px;
     margin: 1px;
     text-align: left;
     background-color: black;
@@ -22,9 +27,27 @@ font-family: sans-serif;
     padding: 0.5em;
 }
 
-.cabecera h1 {
+.cabecera_dragon {
+    display: flex;
+    margin-right: 10px;
+}
+
+.cabecera_dragon img {
+    align-self: center;
+    width: 50px;
+    height: 50px;
+}
+
+.cabecera_title {
+align-self: center;
+display: -webkit-inline-box;
+-webkit-box-align: center;
+}
+
+.cabecera_title h1 {
     margin: 1px;
     font-size: 1.5em;
+    margin-right: 40px;
 }
 
 .post {
