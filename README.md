@@ -17,3 +17,4 @@
 
 * Creado por el buen Agus, con ayuda del team platzi <3 
 * Incluye ejemplos en Windows, Linux y Mac 
+* Disponible para todas las edades 
