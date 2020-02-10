@@ -15,4 +15,6 @@
 
 #### Por lo que recomiendo tener una idea básica de html y css para entender muy bien el curso, y aún más sin sabes un poco de terminal y línea de comandos, aunque realmente no es necesario. :p 
 
-* Creado por el buen Agus, con ayuda del team platzi <3
+* Creado por el buen Agus, con ayuda del team platzi <3 
+* Incluye ejemplos en Windows, Linux y Mac 
+* Disponible para todas las edades 
